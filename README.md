@@ -12,5 +12,5 @@ brew inatall imagemagick
 
 3. 在下载好的icon文件夹中执行
 ```
-curl -o- https://raw.githubusercontent.com/twc-productive-tools/extent-png-icon/extent.sh | bash
+curl -o- https://raw.githubusercontent.com/twc-productive-tools/extent-png-icon/master/extent.sh | bash
 ```
