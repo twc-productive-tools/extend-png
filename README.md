@@ -5,6 +5,7 @@
 ```
 brew inatall imagemagick
 ```
+
 2. 下载icon文件
   - https://www.iconfont.cn/ 
   - 格式为png
@@ -14,3 +15,5 @@ brew inatall imagemagick
 ```
 curl -o- https://raw.githubusercontent.com/twc-productive-tools/extent-png-icon/master/extent.sh | bash
 ```
+
+4. 当前目录会生成一个output文件夹，里面就是调整好的icon文件
